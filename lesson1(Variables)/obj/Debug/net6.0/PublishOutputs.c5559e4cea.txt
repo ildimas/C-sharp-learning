@@ -1,0 +1,5 @@
+D:\C# learning\lesson1(Variables)\bin\Debug\net6.0\publish\lesson1.exe
+D:\C# learning\lesson1(Variables)\bin\Debug\net6.0\publish\lesson1.dll
+D:\C# learning\lesson1(Variables)\bin\Debug\net6.0\publish\lesson1.deps.json
+D:\C# learning\lesson1(Variables)\bin\Debug\net6.0\publish\lesson1.runtimeconfig.json
+D:\C# learning\lesson1(Variables)\bin\Debug\net6.0\publish\lesson1.pdb

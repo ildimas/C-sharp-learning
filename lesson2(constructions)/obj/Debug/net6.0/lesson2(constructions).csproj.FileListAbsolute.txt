@@ -1,0 +1,15 @@
+D:\C# learning\lesson2(constructions)\bin\Debug\net6.0\lesson2(constructions).exe
+D:\C# learning\lesson2(constructions)\bin\Debug\net6.0\lesson2(constructions).deps.json
+D:\C# learning\lesson2(constructions)\bin\Debug\net6.0\lesson2(constructions).runtimeconfig.json
+D:\C# learning\lesson2(constructions)\bin\Debug\net6.0\lesson2(constructions).dll
+D:\C# learning\lesson2(constructions)\bin\Debug\net6.0\lesson2(constructions).pdb
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).csproj.AssemblyReference.cache
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).AssemblyInfoInputs.cache
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).AssemblyInfo.cs
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).dll
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\refint\lesson2(constructions).dll
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).pdb
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\lesson2(constructions).genruntimeconfig.cache
+D:\C# learning\lesson2(constructions)\obj\Debug\net6.0\ref\lesson2(constructions).dll
