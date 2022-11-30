@@ -110,22 +110,47 @@
         //     }
         // }
         //! switch expression
-        {
-            Console.WriteLine("Введите число от 0 до 15");
-            int a = int.Parse(Console.ReadLine());
+        // {
+        //     Console.WriteLine("Введите число от 0 до 15");
+        //     int a = int.Parse(Console.ReadLine());
 
-            string b = a switch
+        //     string b = a switch
+        //     {
+        //         > 0 and < 10 => Convert.ToString(a),
+        //         10 => "A",
+        //         11 => "B",
+        //         12 => "C",
+        //         13 => "D",
+        //         14 => "E",
+        //         15 => "F",
+        //         _ => "Мы не умеем переводить такие числа"
+        //     };
+        //     Console.WriteLine(b);
+        // }
+        //! классный код
+        {
+            double bankDeposit = Convert.ToDouble(Console.ReadLine());
+            double sum = 0.0;
+            
+            switch(bankDeposit)
             {
-                > 0 and < 10 => Convert.ToString(a),
-                10 => "A",
-                11 => "B",
-                12 => "C",
-                13 => "D",
-                14 => "E",
-                15 => "F",
-                _ => "Мы не умеем переводить такие числа"
-            };
-            Console.WriteLine(b);
+                case var n when (n < 100):
+                    sum = n + n * 0.05;
+                    break;
+                        
+                case var n when ((n > 100) && (n < 200)):
+                    sum = n + n * 0.07;
+                    break;
+                Math.Ceiling
+                case var n when (n >= 200):
+                    sum = n + n * 0.1;
+                    break;
+            }
+            
+            
+
+            Console.WriteLine($"Сумма вклада после начисления процентов: {sum}");
+
         }
     }
 

@@ -84,5 +84,5 @@ class Programm
             Console.WriteLine(main);
             step_n = step_n + step * 2;
         }
-    }       
+    }   
 }
