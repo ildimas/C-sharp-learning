@@ -1,0 +1,15 @@
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).csproj.AssemblyReference.cache
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).AssemblyInfoInputs.cache
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).AssemblyInfo.cs
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson6(methods part 2)\bin\Debug\net6.0\lesson6(methods part 2).exe
+D:\C# learning\lesson6(methods part 2)\bin\Debug\net6.0\lesson6(methods part 2).deps.json
+D:\C# learning\lesson6(methods part 2)\bin\Debug\net6.0\lesson6(methods part 2).runtimeconfig.json
+D:\C# learning\lesson6(methods part 2)\bin\Debug\net6.0\lesson6(methods part 2).dll
+D:\C# learning\lesson6(methods part 2)\bin\Debug\net6.0\lesson6(methods part 2).pdb
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).dll
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\refint\lesson6(methods part 2).dll
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).pdb
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\lesson6(methods part 2).genruntimeconfig.cache
+D:\C# learning\lesson6(methods part 2)\obj\Debug\net6.0\ref\lesson6(methods part 2).dll

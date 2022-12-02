@@ -1,0 +1,15 @@
+D:\C# learning\lesson5(methods)\bin\Debug\net6.0\lesson5(methods).exe
+D:\C# learning\lesson5(methods)\bin\Debug\net6.0\lesson5(methods).deps.json
+D:\C# learning\lesson5(methods)\bin\Debug\net6.0\lesson5(methods).runtimeconfig.json
+D:\C# learning\lesson5(methods)\bin\Debug\net6.0\lesson5(methods).dll
+D:\C# learning\lesson5(methods)\bin\Debug\net6.0\lesson5(methods).pdb
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).csproj.AssemblyReference.cache
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).AssemblyInfoInputs.cache
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).AssemblyInfo.cs
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).dll
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\refint\lesson5(methods).dll
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).pdb
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\lesson5(methods).genruntimeconfig.cache
+D:\C# learning\lesson5(methods)\obj\Debug\net6.0\ref\lesson5(methods).dll

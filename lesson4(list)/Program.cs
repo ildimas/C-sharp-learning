@@ -95,7 +95,7 @@
         string answ = $"{array[0]}";
         for (int a = 1; a < array.Length; a++)
         {
-            answ += $" {array[a]}";
+            answ += $"{array[a]}";
         }    
         Console.WriteLine(answ);
         
