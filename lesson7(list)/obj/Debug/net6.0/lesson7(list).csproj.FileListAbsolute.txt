@@ -1,0 +1,15 @@
+D:\C# learning\lesson7(list)\bin\Debug\net6.0\lesson7(list).exe
+D:\C# learning\lesson7(list)\bin\Debug\net6.0\lesson7(list).deps.json
+D:\C# learning\lesson7(list)\bin\Debug\net6.0\lesson7(list).runtimeconfig.json
+D:\C# learning\lesson7(list)\bin\Debug\net6.0\lesson7(list).dll
+D:\C# learning\lesson7(list)\bin\Debug\net6.0\lesson7(list).pdb
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).csproj.AssemblyReference.cache
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).AssemblyInfoInputs.cache
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).AssemblyInfo.cs
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).dll
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\refint\lesson7(list).dll
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).pdb
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\lesson7(list).genruntimeconfig.cache
+D:\C# learning\lesson7(list)\obj\Debug\net6.0\ref\lesson7(list).dll

@@ -72,15 +72,15 @@
         //         new_array[array.Length] = to_add;
         //         array = new_array; 
         //     }
-        //     static void Show_m(int[] array)
-        //     {
-        //         string res =  $"{array[0]}";
-        //         for (int i = 1; i < array.Length; i++)
-        //         {
-        //             res = res + " " + $"{array[i]}";
-        //         }
-        //         Console.WriteLine(res);
-        //     }
+            static void Show_m(int[] array)
+            {
+                string res =  $"{array[0]}";
+                for (int i = 1; i < array.Length; i++)
+                {
+                    res = res + " " + $"{array[i]}";
+                }
+                Console.WriteLine(res);
+            }
         //     int[] arr = {1, 2, 3, 4, 5};
         //     Show_m(arr);
         //     AddToM(ref arr, 6);
@@ -125,6 +125,30 @@
         //     static int Sum(int a, int b) => a *  b;
         //     Console.WriteLine(Sum(1, 9));
         // }
+        // static int FindMin(ref int[] array){
+        //     int min = array[0];
+        //     int index = 0;
+        //     for (int i = 0; i < array.Length; i++){
+        //         if (array[i] < min){
+        //         min = array[i];
+        //         index = i;
+        //         }
+        //     }
+        //     var new_array = new int[array.Length - 1]; // Предположим, что массивы целочисленные
+        //     Array.Copy(array, 0, new_array, 0, index);
+        //     Array.Copy(array, index+1, new_array, index, array.Length - index - 1);
+        //     if (array.Length != 1){
+        //         array = new_array; 
+        //     }
+        //     return(min);
+            
+        // }
+
+        // int[] array = {1, 2, 3, 4};
+        // Console.WriteLine(FindMin(ref array));
+        // Show_m(array);
+        
+
     }
     //! перегрузку писать не в init (Main)
     static void SayType(int num)
