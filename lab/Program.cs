@@ -2,8 +2,12 @@
 {
     static void Main(string[] args)
     {
-        int[] list = {1, 2, 3, 4};
-        Console.WriteLine(FindMin(list)[1]);
+        // int[] list = {1, 2, 3, 4};
+        // Console.WriteLine(FindMin(list)[1]);
+        bool[] array = {false, true};
+        Console.WriteLine(array[0]);
+        var list = new List<bool>(array);
+        Console.WriteLine(list[0]);
     }
     
     static int[] FindMin(int[] array){

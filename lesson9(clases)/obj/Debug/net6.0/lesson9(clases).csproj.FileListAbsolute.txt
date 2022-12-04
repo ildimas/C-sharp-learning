@@ -1,0 +1,15 @@
+D:\C# learning\lesson9(clases)\bin\Debug\net6.0\lesson9(clases).exe
+D:\C# learning\lesson9(clases)\bin\Debug\net6.0\lesson9(clases).deps.json
+D:\C# learning\lesson9(clases)\bin\Debug\net6.0\lesson9(clases).runtimeconfig.json
+D:\C# learning\lesson9(clases)\bin\Debug\net6.0\lesson9(clases).dll
+D:\C# learning\lesson9(clases)\bin\Debug\net6.0\lesson9(clases).pdb
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).csproj.AssemblyReference.cache
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).AssemblyInfoInputs.cache
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).AssemblyInfo.cs
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).dll
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\refint\lesson9(clases).dll
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).pdb
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\lesson9(clases).genruntimeconfig.cache
+D:\C# learning\lesson9(clases)\obj\Debug\net6.0\ref\lesson9(clases).dll

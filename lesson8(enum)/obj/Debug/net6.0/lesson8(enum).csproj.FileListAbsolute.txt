@@ -1,0 +1,15 @@
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).csproj.AssemblyReference.cache
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).AssemblyInfoInputs.cache
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).AssemblyInfo.cs
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).csproj.CoreCompileInputs.cache
+D:\C# learning\lesson8(enum)\bin\Debug\net6.0\lesson8(enum).exe
+D:\C# learning\lesson8(enum)\bin\Debug\net6.0\lesson8(enum).deps.json
+D:\C# learning\lesson8(enum)\bin\Debug\net6.0\lesson8(enum).runtimeconfig.json
+D:\C# learning\lesson8(enum)\bin\Debug\net6.0\lesson8(enum).dll
+D:\C# learning\lesson8(enum)\bin\Debug\net6.0\lesson8(enum).pdb
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).dll
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\refint\lesson8(enum).dll
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).pdb
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\lesson8(enum).genruntimeconfig.cache
+D:\C# learning\lesson8(enum)\obj\Debug\net6.0\ref\lesson8(enum).dll
